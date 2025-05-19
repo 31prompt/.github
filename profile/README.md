@@ -29,9 +29,9 @@ clarity + expertise + ☕️ = exceptional_software
 
 We're like your favorite IDE: powerful, reliable, and occasionally full of helpful suggestions.
 
-- 📧 [hello@31prompt.com](mailto:hello@31prompt.com)
-- 🌐 [31prompt.com](#)
-- 🐦 [@31prompt](#)
+- 📧 [info@31prompt.com](mailto:info@31prompt.com)
+- 🌐 [31prompt.com](https://31prompt.com)
+- 🐦 [@31prompt](https://github.com/31prompt)
 
 ## 🚀 Getting Started
 
